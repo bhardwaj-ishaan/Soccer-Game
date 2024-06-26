@@ -1,7 +1,4 @@
-<!-- # p5.play-boilerplate
-Boiler plate for p5.play -->
+Basic Soccer Game, made using matter.js
 
-Things I need help on:
-<!-- 1. the animation for the player.
-2. the background is not working properly, so I need help on that. -->
-      
+Players are controlled with WASD and arrow keys
+Enjoy!
